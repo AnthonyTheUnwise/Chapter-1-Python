@@ -55,6 +55,3 @@ TotalFish = int(Fish)*4.5
 TotalChips = int(Chips)*2.8
 total2 = int(TotalFish)+int(TotalChips)
 print(total2)
-
-#Task 8
-#Im like 99% sure we did this as classwork so i will refer to that / upload that attached !!!
