@@ -1,0 +1,47 @@
+<html>
+<head>
+The Maldives
+</head>
+<body>
+<h2> My favourite country: The Maldives! </h2>
+<table>
+	<tr>
+		<th> Question </th>
+		<th> Info </th>
+	</tr>
+	<tr>
+		<td> Population? </td>
+		<td> 515,000~ </td>
+	</tr>
+	<tr>
+		<td> Capital? </td>
+		<td> Male </td>
+	</tr>
+	<tr>
+		<td> Currency? </td>
+		<td> Rufiyaa </td>
+	</tr>
+	<tr>
+		<td> Area? </td>
+		<td> 298Km^2 </td>
+	</tr>
+	<tr>
+		<td> Location? </td>
+		<td> Indian ocean, Asia </td>
+	</tr>
+</table>
+<h3> Things to see! </h3>
+<ul>
+	<li> Addu nature park </li>
+	<li> Male city center </li>
+	<li> The natural reefs </li>
+</ul>
+<h4> Famous sights! </h4>
+<ol>
+	<li> The beautiful ocean views and beaches </li>
+	<li> The lovely coral reefs beneath the water surface </li>
+	<li> The unique botany within the islands </li>
+</ol>
+<img src="maldives"/>
+</body>
+</html>
