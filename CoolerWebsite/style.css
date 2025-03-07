@@ -1,0 +1,49 @@
+		h2 {
+		color: #0A154B;
+	}
+		h3 {
+		color: #2244AA;
+	}
+		p {
+		background-color: #99BBFF;
+		padding: 5px;
+		border-radius: 8px;
+	}
+		ul, ol {
+		text-align: center;
+	}
+		body {
+		background-color: #AACCFF;
+		margin: 8px;
+	}
+		#Button_a {
+		background-color: #113388;
+		color: #AACCFF;
+		padding: 6px;
+		text-decoration: none;
+		border-radius: 8px;
+	}
+		header {
+		border-radius: 15px;
+		background-color: #2244AA;
+		color: #AACCFF;
+		text-align: center;
+		padding: 12px;
+	}
+		nav a {
+		margin: 0 5px;
+	}
+		img {
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 50%;
+		border-radius: 8px;
+	}
+		table, th, td{
+		border: 1px dotted;
+		width: 80%;
+		border-collapse: collapse;
+		background-color: #99BBFF;
+		border-color: #113388;
+		}
