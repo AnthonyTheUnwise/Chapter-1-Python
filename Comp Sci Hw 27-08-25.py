@@ -124,7 +124,7 @@ def is_even(n):
 
 x = int(input("Enter your number to be squared:")) 
 
-#square(x) 
+square(x) 
 
 n = int(input("Enter the odd or even number:"))
 
@@ -194,27 +194,26 @@ def get_range(values):
 
     print("The minimum is:", values[0]) 
 
-    values = []
+values = []
     
-    ty = 0
+ty = 0
 
-    print("Type a letter to stop inputting") 
+print("Type a letter to stop inputting") 
 
-    while ty == 0: 
+while ty == 0: 
 
-        input=int(input("Enter a number:")) 
+    input3=(input("Enter a number:")) 
 
     try: 
 
-        input = int(input) 
-
-        values.append(input) 
+        values.append(int(input3))
 
     except ValueError: 
 
-         ty = 1
+        ty = 1
+    
 
-#get_range(values) 
+get_range(values) 
 
  
 
@@ -245,15 +244,9 @@ def median(lister):
 
     lister.sort() 
 
-    median = len(lister)//2 
-
-    # median = lister[median] 
-
-    # print("The median is:", median) 
+    median = len(lister)//2  
 
     return 
-
-#get_range(lister) 
 
 print("The mean is:", mean) 
 
